@@ -1,0 +1,71 @@
+{
+    "key": "group_5c923a79e8169",
+    "title": "Modules",
+    "fields": [
+        {
+            "key": "field_5c923a83d29a1",
+            "label": "Modules",
+            "name": "c8_templates",
+            "type": "flexible_content",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layouts": {
+                "layout_5f473a993ba99": {
+                    "key": "layout_5f473a993ba99",
+                    "name": "example",
+                    "label": "Example",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5f73ffbf1dffe": {
+                    "key": "layout_5f73ffbf1dffe",
+                    "name": "example2",
+                    "label": "Example21",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61bdaba00e939": {
+                    "key": "layout_61bdaba00e939",
+                    "name": "mod_demo",
+                    "label": "Mod demo",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                }
+            },
+            "button_label": "Add Module",
+            "min": "",
+            "max": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1639820248,
+    "local_file": "C:UsersASUS-FPTLocal Sitessageteamwordapppublic\/wp-content\/themes\/sage-theme\/resources\/acf-json\/group_5c923a79e8169.json"
+}
