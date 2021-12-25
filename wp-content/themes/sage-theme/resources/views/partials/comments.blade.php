@@ -1,4 +1,4 @@
-@php
+{{-- @php
 if (post_password_required()) {
 return;
 }
@@ -41,4 +41,4 @@ return;
   @endif
 
   @php comment_form() @endphp
-</section>
+</section> --}}

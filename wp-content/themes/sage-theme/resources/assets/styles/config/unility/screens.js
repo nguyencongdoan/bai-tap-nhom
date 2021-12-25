@@ -10,7 +10,7 @@ const Screens = {
 
   'down_2xl': {'max': '1439px'},
   'down_xl': {'max': '1199px'},
-  'down_2lg': {'max': '1024px'},
+  'down_2lg': {'max': '1023px'},
   'down_lg': {'max': '991px'},
   'down_md': {'max': '767px'},
   'down_sm': {'max': '480px'},

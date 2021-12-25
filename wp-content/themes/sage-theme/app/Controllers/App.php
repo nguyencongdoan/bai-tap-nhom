@@ -97,4 +97,14 @@ class App extends Controller
     {
         return Queries::getOptionField('ns_404_page_content');
     }
+
+    public static function getPost(){
+        $query = Queries::newPost();
+        return $query;
+    }
+
+    public static function typePost($id_category){
+        $query = Queries::allTypePost($id_category);
+        return $query;
+    }
 }

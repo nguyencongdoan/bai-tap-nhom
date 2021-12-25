@@ -12,14 +12,19 @@ const Colors = {
   },
   gray: {
     100: '#fcf7ef',
-    200: '#F7F1E7'
+    200: '#F7F1E7',
+    300: '#E5E5E5'
   },
   blue: {
     100: '#1d4f91',
     200: '#1e5091'
   },
   black: '#000',
-  transparent: 'transparent'
+  transparent: 'transparent',
+
+  FDAC34: '#FDAC34',
+
+  lightcoral: '#f08080'
 }
 module.exports = {
   Colors

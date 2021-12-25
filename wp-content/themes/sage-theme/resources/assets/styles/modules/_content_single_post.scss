@@ -1,0 +1,16 @@
+.content-single-post{
+    h1{
+        @apply text-center text-4xl leading-11;
+    }
+
+    h2{
+        @apply bg-lightcoral text-white p-8 text-center;
+    }
+}
+
+.content{
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}

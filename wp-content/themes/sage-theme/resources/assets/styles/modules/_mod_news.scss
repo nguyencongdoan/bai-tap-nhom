@@ -1,0 +1,39 @@
+.mod-news{    
+    h2{
+        @apply text-lg mt-8 truncate;
+    }
+
+    h3{
+        @apply bg-lightcoral text-white p-8 text-center;
+    }
+
+    p{
+        @apply mb-8;
+    }
+
+    a{
+        @apply font-bold hover:text-red-500;
+    }
+}
+
+.new-item{
+    p{
+        @apply mb-0;
+    }
+    a{
+        @apply text-FDAC34; 
+    }
+}
+
+.content{
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.post-img{
+    img{
+        @apply w-50 h-50;
+    }
+}

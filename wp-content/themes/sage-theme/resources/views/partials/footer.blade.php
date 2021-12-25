@@ -1,4 +1,4 @@
-<footer id="footer" class="module footer">
+{{-- <footer id="footer" class="module footer">
   <div class="container footer-top">
     <div class="row">
       <ul class="list-none col p-0 w-1/2 lg:w-2/3">
@@ -37,4 +37,4 @@
     </div>
   </div>
 </noscript>
-
+ --}}

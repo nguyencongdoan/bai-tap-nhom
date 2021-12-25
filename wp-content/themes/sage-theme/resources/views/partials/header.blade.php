@@ -38,16 +38,14 @@
                     <span class="sr-only">Open Menu</span>
                 </button>
             </div>
-
-            <div class="col flex-shrink down_lg:hidden down_xl:text-sm down_xl:w-[30%] sm:text-sm 2xl:text-xl">
-                <a href="#">
+            <div class="col flex-shrink down_lg:hidden down_xl:text-sm down_xl:w-[30%] sm:text-sm 2xl:text-xl flex items-center">
+                <input type="text" class="w-75 h-16 hidden duration-250 ease-in-out rounded border-solid border-red-500 border-2 focus:border-red-500" id="input-search">
+                <button type="button" class="icomoon-btn">
                     <span class="icomoon icon-icon-search"></span>
-                </a>
+                </button>
                 <a href="#" class="btn">Đăng nhập</a>
                 <a href="#" class="font-medium hover:text-red-600 active:text-red-600">Đăng ký</a>
             </div>
-            
         </nav>
     </div>
-    
 </header>
